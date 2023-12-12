@@ -1,0 +1,3 @@
+1 nathan 6 6 2004 13487734990 41995987474 nathan@teste.com nathansantos senha123 1
+2 Ana 21 9 1974 57672648055 41992770748 ana@teste.com aninha senha123 0
+3 Paulo 10 6 2005 10607154900 41991080404 paulohaliski50@gmail.com haliskipaulo paulokkk05 1 
